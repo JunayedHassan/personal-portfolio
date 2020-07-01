@@ -182,6 +182,9 @@ header{
 .copyright a{
     text-decoration: none;
     border: none;
-    color: hotpink;
+    color:  #ED4B71;
     font-weight: 700;
+}
+.copyright a:hover{
+    color: hotpink;
 }
