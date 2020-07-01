@@ -181,10 +181,14 @@ header{
 }
 .copyright a{
     text-decoration: none;
-    border: none;
+    
     color:  #ED4B71;
     font-weight: 700;
 }
 .copyright a:hover{
     color: hotpink;
+}
+abbr{
+        border-bottom: none !important;
+        text-decoration: none !important;
 }
